@@ -1,0 +1,1 @@
+This project uses data from wordbank and openspending.org to analyse which government spend tax payers’ money efficiently. The analysis focused on several fields such as education, health, science & technology.
